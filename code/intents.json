@@ -1,0 +1,85 @@
+{
+    "intents": [
+        {
+            "intent": "tamil_nadu_agriculture_scheme",
+            "examples": [
+                "What are the new schemes for agriculture in Tamil Nadu?",
+                "Tell me about support for farmers",
+                "Is there any funding for agriculture?"
+            ],
+            "criteria": "Detects queries about Tamil Nadu's agriculture schemes.",
+            "response": "The Agriculture and Farmer's Welfare Department in Tamil Nadu has introduced initiatives for farmer welfare and infrastructure improvement."
+        },
+        {
+            "intent": "nagore_neithal_heritage_park",
+            "examples": [
+                "What is the Nagore Neithal Heritage Park?",
+                "Tell me about the heritage park scheme",
+                "What are the features of Nagore Neithal Park?"
+            ],
+            "criteria": "Detects queries about the Nagore Neithal Heritage Park.",
+            "response": "The Nagore Neithal Heritage Park is being developed as a heritage conservation area under the State Innovation Fund."
+        },
+        {
+            "intent": "criminal_case_lawyers",
+            "examples": [
+                "I need a lawyer for a criminal case",
+                "How can I contact a lawyer for criminal cases?",
+                "Who should I call for legal assistance in a criminal matter?"
+            ],
+            "criteria": "Detects queries regarding legal assistance for criminal cases.",
+            "response": "In case of any criminal case, we need lawyers. You can contact them at +91 98847 08087."
+        },
+        {
+            "intent": "constitution_article_1",
+            "examples": [
+                "What does Article 1 of the Indian Constitution state?",
+                "Explain Article 1",
+                "What is Article 1?"
+            ],
+            "criteria": "Recognizes queries about Article 1 of the Indian Constitution.",
+            "response": "Article 1 of the Indian Constitution states that India, that is Bharat, shall be a Union of States. It also defines the territory of India. In case of any legal issues regarding this, you can contact a lawyer at +91 98847 08087."
+        },
+        {
+            "intent": "constitution_article_2",
+            "examples": [
+                "What does Article 2 of the Indian Constitution state?",
+                "Explain Article 2",
+                "What is Article 2?"
+            ],
+            "criteria": "Recognizes queries about Article 2 of the Indian Constitution.",
+            "response": "Article 2 of the Indian Constitution empowers Parliament to admit or establish new States into the Union of India and allows it to determine the terms and conditions of such admission or establishment. If you need legal assistance regarding this, you can contact a lawyer at +91 98847 08087."
+        },
+        {
+            "intent": "constitution_article_3",
+            "examples": [
+                "What does Article 3 of the Indian Constitution state?",
+                "Explain Article 3",
+                "What is Article 3?"
+            ],
+            "criteria": "Recognizes queries about Article 3 of the Indian Constitution.",
+            "response": "Article 3 of the Indian Constitution allows Parliament to alter the boundaries of existing states, increase or decrease their areas, or change their names. However, this can only be done with the President's recommendation and after referring the proposal to the legislature of the affected state. For legal advice on this matter, you can contact a lawyer at +91 98847 08087."
+        },
+        {
+            "intent": "constitution_article_4",
+            "examples": [
+                "What does Article 4 of the Indian Constitution state?",
+                "Explain Article 4",
+                "What is Article 4?"
+            ],
+            "criteria": "Recognizes queries about Article 4 of the Indian Constitution.",
+            "response": "Article 4 of the Indian Constitution clarifies that laws made under Articles 2 and 3 are not to be considered as amendments to the Constitution under Article 368, meaning they do not require a constitutional amendment procedure. If you require legal guidance on this, please contact a lawyer at +91 98847 08087."
+        },
+        {
+            "intent": "constitution_article_5",
+            "examples": [
+                "What does Article 5 of the Indian Constitution state?",
+                "Explain Article 5",
+                "What is Article 5?"
+            ],
+            "criteria": "Recognizes queries about Article 5 of the Indian Constitution.",
+            "response": "Article 5 of the Indian Constitution deals with citizenship at the commencement of the Constitution, defining who shall be deemed as a citizen of India at that time. If you need legal assistance regarding citizenship, please contact a lawyer at +91 98847 08087."
+        }
+    ]
+  }
+  
